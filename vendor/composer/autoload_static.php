@@ -210,7 +210,8 @@ class ComposerStaticInitb15eacf5224098dc5075cf9a94c566b2
         'A' => 
         array (
             'App\\' => 4,
-            'Ajaymahato\\LaravelEsewa\\' => 24,
+            'AjayMahato\\Esewa\\Tests\\' => 23,
+            'AjayMahato\\Esewa\\' => 17,
         ),
     );
 
@@ -621,7 +622,11 @@ class ComposerStaticInitb15eacf5224098dc5075cf9a94c566b2
         array (
             0 => __DIR__ . '/..' . '/laravel/pint/app',
         ),
-        'Ajaymahato\\LaravelEsewa\\' => 
+        'AjayMahato\\Esewa\\Tests\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/tests',
+        ),
+        'AjayMahato\\Esewa\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

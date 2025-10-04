@@ -106,5 +106,6 @@ return array(
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
     'Brick\\Math\\' => array($vendorDir . '/brick/math/src'),
     'App\\' => array($vendorDir . '/laravel/pint/app'),
-    'Ajaymahato\\LaravelEsewa\\' => array($baseDir . '/src'),
+    'AjayMahato\\Esewa\\Tests\\' => array($baseDir . '/tests'),
+    'AjayMahato\\Esewa\\' => array($baseDir . '/src'),
 );
